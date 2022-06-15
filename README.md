@@ -3,6 +3,8 @@
       - SQL
 3. Create a schema for this database
    
+   ![Image](https://raw.githubusercontent.com/sigltech/households-relational-database/main/Screenshot%202022-06-15%20at%2010.33.19.png)
+   
 5. Consider the requests our API should be capable of handling
       - GET to retrieve Person ID 
       - POST to add residents
