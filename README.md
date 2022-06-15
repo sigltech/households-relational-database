@@ -21,7 +21,7 @@
 | ------------- |:-------------:| -----:|
 | /residents    | GET         | index |
 | /residents/:id/address | GET | show |
-| /residents/houses/:id/address   | GET  | show |
+| /residents/houses/:id/address | GET  | show |
 | /residents/new | GET| new|
 | /residents/houses/:id/new | GET | new|
 | /residents/:id/edit | GET | edit |
@@ -32,3 +32,7 @@
 | /residents/houses/:id/edit | DELETE | destroy |
 
 9. Determine the responses that should be returned and the content types of these requests and responses
+      - /residents  - return status code 200 and a list of residents 
+      - /residents/:id/address - return status code 200 and resident's address
+
+      
