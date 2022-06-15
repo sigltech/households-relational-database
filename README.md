@@ -12,5 +12,11 @@
      Path         HTTP Verb  Action 
      /residents   GET        index
      
+     
+| Pat        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 9. Determine the responses that should be returned and the content types of these requests and responses
