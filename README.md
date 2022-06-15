@@ -9,9 +9,8 @@
 
   
 7. List the routes you will need with their HTTP verb and path
-     Path | HTTP Verb | Action  
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-/residents | GET | index 
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+     Path         HTTP Verb  Action 
+     /residents   GET        index
+     
 
 9. Determine the responses that should be returned and the content types of these requests and responses
